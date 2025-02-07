@@ -25,6 +25,8 @@ This repository contains a comprehensive tool for analyzing WhatsApp group chats
 
 5. 🖥️ Interactive HTML Report: Consolidate all analytics and visualizations into a single, user-friendly HTML report for an overview of group chat insights.
 
+![Example HTML Recap](https://github.com/miraf18/WhatsApp-Group-Chat-Analyzer/blob/main/html.gif)
+
 ## 🛠️ Configuration and Usage
 1. Install the packages.
 ```bash
