@@ -1,0 +1,20 @@
+# Name of the chat group
+chat_group_name: "Name"
+
+paths:                 
+  raw: "data/raw/_chat.txt"                 # paths to the raw WhatsApp chat file
+  processed: "data/processed/df_clean.csv"  # paths to the processed/cleaned dataset
+  outputs: "outputs/"                       # Directory for saving output files like visualizations
+  outputsTM: "outputs/TopicModeling/"       # Directory for saving file about topic modeling 
+
+#Language
+language: "it"  # Supporta: en, de, fr, es, pt, nl, ecc.
+
+# Some customizable parameters for visualization:
+parameters_for_graphs: 
+  n_top_users : 10        # Number of top users displayed in the chart
+  n_top_emoji : 5         # Number of top emojis displayed in the chart
+  n_topics_vis_pie : 4   # Number of topics displayed in the pie chart
+
+# OpenAI key 
+api_key_openai :  ''
