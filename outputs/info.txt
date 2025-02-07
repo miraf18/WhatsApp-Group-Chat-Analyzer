@@ -1,0 +1,1 @@
+In this folder, the generated charts will be saved.
