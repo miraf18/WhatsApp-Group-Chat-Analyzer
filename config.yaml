@@ -17,4 +17,4 @@ parameters_for_graphs:
   n_topics_vis_pie : 4   # Number of topics displayed in the pie chart
 
 # OpenAI key 
-api_key_openai :  ''
+api_key_openai :  ''  # Leave empty if you want to use a representation with KeyBERT.
