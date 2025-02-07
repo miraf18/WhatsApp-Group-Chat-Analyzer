@@ -1,0 +1,1 @@
+Please place the WhatsApp chat, renamed as '_chat.txt', into the folder.
